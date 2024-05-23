@@ -1,7 +1,7 @@
 <h1 align="center">Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Я Сергей</h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE1NGc0NmkyaTRzcTNqOWpkdzVkeTNjM2J3cDJ3dG1qaGNudmM1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="500" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE1NGc0NmkyaTRzcTNqOWpkdzVkeTNjM2J3cDJ3dG1qaGNudmM1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif" width="450" height="300"/>
 </div>
 
 <h2>💫 Обо мне</h2>
